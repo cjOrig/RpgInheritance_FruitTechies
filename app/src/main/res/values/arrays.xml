@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monsters" />
+    <string-array name="Class" />
+    <string-array name="Mage" />
+    <string-array name="Mprod" />
+    <string-array name="Cultist" />
+    <string-array name="Marine" />
+</resources>
